@@ -4,7 +4,7 @@
 package com.manoj.bikes.controllers;
 
 /**
- * @author manoj
+ * @author manoj and sindhu
  *
  */
 public class BikesController {
